@@ -1,0 +1,33 @@
+{
+  "name": "fresh-stack",
+  "version": "0.0.0",
+  "description": "A fresh NodeJS stack with AngularJS, MongoDB and Express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ezekielriva/fresh-stack.git"
+  },
+  "keywords": [
+    "nodejs",
+    "stack",
+    "server",
+    "mongodb",
+    "mongoose",
+    "express",
+    "angularjs"
+  ],
+  "author": "Ezekiel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ezekielriva/fresh-stack/issues"
+  },
+  "homepage": "https://github.com/ezekielriva/fresh-stack",
+  "dependencies": {
+    "express": "^4.9.5",
+    "mongoose": "^3.8.16"
+  }
+}
